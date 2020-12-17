@@ -1,0 +1,11 @@
+#escribiendo {
+  color: red;
+  height: 25px;
+}
+.tp1, 
+.tp2, 
+.tp5 {
+ box-shadow: 5px 5px 10px rgba(55,55,55,0.5);
+ padding: 10px;
+
+}
